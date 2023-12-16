@@ -1,2 +1,11 @@
-code,areaName,home,metro,train,bus,taxi,motorcycle,carDriver,carPassenger,bicycle,foot,other,noWork
-E12000007,London,1836823,431842,231074,386068,22544,30404,897111,63883,128833,279453,52040,4439651
+code,areaName,travelMethod,units
+E12000007,London,home,1836823
+E12000007,London,metro,431842
+E12000007,London,train,231074
+E12000007,London,bus,386068
+E12000007,London,taxi,22544
+E12000007,London,motorcycle,30404
+E12000007,London,car,960994
+E12000007,London,bicycle,128833
+E12000007,London,foot,279453
+E12000007,London,noWork,4439651
