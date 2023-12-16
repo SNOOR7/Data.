@@ -1,9 +1,9 @@
 code,areaName,travelMethod,units
-E12000007,London,metro,431842
-E12000007,London,train,231074
-E12000007,London,bus,386068
-E12000007,London,taxi,22544
-E12000007,London,motorcycle,30404
-E12000007,London,car,960994
-E12000007,London,bicycle,128833
-E12000007,London,foot,279453
+E12000007,London 2021,metro,431842
+E12000007,London 2021,train,231074
+E12000007,London 2021,bus,386068
+E12000007,London 2021,taxi,22544
+E12000007,London 2021,motorcycle,30404
+E12000007,London 2021,car,960994
+E12000007,London 2021,bicycle,128833
+E12000007,London 2021,foot,279453
