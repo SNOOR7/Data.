@@ -1,3 +1,9 @@
-areaName, metro, train, bus, taxi, motorcycle, car, bicycle, foot
-London, 902263, 532720, 561605, 20314, 45976, 1120826, 161705, 352612
-
+areaName,travelMethod,units
+London,metro,902263
+London,train,532720
+London,bus,561605
+London,taxi,20314
+London,motorcycle,45976
+London,car,1120826
+London,bicycle,161705
+London,foot,352612
