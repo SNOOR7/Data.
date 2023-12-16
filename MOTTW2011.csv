@@ -1,11 +1,3 @@
-Method of Travel to Work, Units
-
-"Underground, metro, light rail, tram",902263
-"Train",532720
-"Bus, minibus or coach",561605
-"Taxi",20314
-"Motorcycle, scooter or moped",45976
-"Driving a car or van",1120826
-"Bicycle",161705
-"On foot",352612
+areaName, metro, train, bus, taxi, motorcycle, car, bicycle, foot
+London, 902263, 532720, 561605, 20314, 45976, 1120826, 161705, 352612
 
