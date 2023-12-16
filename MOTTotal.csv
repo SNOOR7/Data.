@@ -1,0 +1,17 @@
+areaName,travelMethod,units
+London 2011,metro,902263
+London 2011,train,532720
+London 2011,bus,561605
+London 2011,taxi,20314
+London 2011,motorcycle,45976
+London 2011,car,1120826
+London 2011,bicycle,161705
+London 2011,foot,352612
+London 2021,metro,431842
+London 2021,train,231074
+London 2021,bus,386068
+London 2021,taxi,22544
+London 2021,motorcycle,30404
+London 2021,car,960994
+London 2021,bicycle,128833
+London 2021,foot,279453
